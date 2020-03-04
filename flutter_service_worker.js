@@ -20,7 +20,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/favicon-16x16.png": "d093adf7c0371a99e329b68d7c066a94",
 "/android-icon-96x96.png": "bc1fd1f2194c8a8a4446c7d56acd6a64",
-"/main.dart.js": "e98e528b48115ad1ad73f268d252e818",
+"/main.dart.js": "7043dfb74cabe84f100794b13a503883",
 "/android-icon-48x48.png": "64d5c6efda3353bb92bceeb2f938eb42",
 "/apple-icon.png": "78a0480a9efe82e5268ce77dbbbde0bb",
 "/favicon-96x96.png": "bc1fd1f2194c8a8a4446c7d56acd6a64",
