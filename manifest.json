@@ -1,8 +1,8 @@
 {
-  "name": "سامانه بیماری های واگیردارد",
-  "short_name": "سامانه بیماری های واگیر دار",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
+  "name": "Covid-19",
+  "short_name": "Covid-19",
+  "theme_color": "#007d83",
+  "background_color": "#007d83",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
