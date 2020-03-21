@@ -22657,7 +22657,7 @@ $C:"$0",
 $R:0,
 $S:1}
 F.uv.prototype={
-O:function(a){return new S.ne(new O.vh(null),"Flutter Demo",X.SB(null,C.eW),!1,null)}}
+O:function(a){return new S.ne(new O.vh(null),"Reza Felegari",X.SB(null,C.eW),!1,null)}}
 X.cL.prototype={
 h:function(a){return this.b}}
 X.c2.prototype={
